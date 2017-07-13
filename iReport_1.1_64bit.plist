@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mts.mobizone.cn:10004/download/testMobileBI/files/iReport_1.1_64bit.ipa</string>
+					<string>http://mts.mobizone.cn:10004/download/MobileBITest/files/iReport_1.1_64bit.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
